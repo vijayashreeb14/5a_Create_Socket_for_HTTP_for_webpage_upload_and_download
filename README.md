@@ -58,6 +58,7 @@ if __name__ == "__main__":
 ~~~
 
 ## OUTPUT
+![Screenshot 2024-05-07 192253](https://github.com/vijayashreeb14/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/161238151/d8a8d88b-514d-4fb0-86fa-bad74d0a63ad)
 
 
 ## Result
